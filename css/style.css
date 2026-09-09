@@ -678,7 +678,6 @@ transition: transform .35s ease
 
 .slide {
 min-width: 100%;
-height: auto;
 position: relative;
 overflow: hidden;
 border-radius: 16px;
